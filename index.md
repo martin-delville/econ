@@ -1,6 +1,6 @@
 
 
-![]({{ site.author.avatar }})
+![]({{ site.author.avatar }}width="150" height="150">)
 
 ## Welcome to my website !
 
