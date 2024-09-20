@@ -21,3 +21,7 @@ Integration in the Early XIXth Century ?** - [Lien vers l'article](lien_article_
 2. **Fiber and Ballots, How Fiber is Pulling the Strings in Voter Behavior** - [Lien vers l'article](lien_article_2).
 3. **Shipping Costs vs Shelves: Who Wins?** - [Lien vers l'article](lien_article_3).
 
+<div class="images-side-by-side">
+  ![](assets/images/Logo-Crest-color (1).png)
+  ![](assets/images/telecomparis_endossem_ipp_horiz_600pix.png)
+</div>
