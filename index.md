@@ -1,11 +1,11 @@
 
 
-![]({{ site.author.avatar }}width="150" height="150">)
+![]({{ site.author.avatar }}width="1500" height="1500">)
 
 ## Welcome to my website !
 
 I am a PhD student in Economics in Telecom Paris/CREST. 
-I am interested in topics of Digital and Applied Economics as well as Empirical IO.
+I am interested in topics of Digital and Applied Economics as well as Empirical Industrial Organization.
 
 ## Contact :
 
