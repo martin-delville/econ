@@ -12,7 +12,7 @@ I am interested in topics of Digital and Applied Economics as well as Empirical 
 You can Reach me at [martin.delville@telecom-paris.fr](martin.delville@telecom-paris.fr)
 
 ## CV
-Download my CV here [Download my CV](econ/Academic_CV_2024 (3).pdf).
+Download my CV here [Download my CV](Academic_CV_2024 (3).pdf).
 
 
 ## Working Papers
