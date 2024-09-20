@@ -1,6 +1,6 @@
 
 
-<img src="{{ site.author.avatar }}" alt="" width="150" height="150">
+<img src="{{ site.author.avatar }}" alt="" width="120" height="150">
 
 ## Welcome to my website !
 
