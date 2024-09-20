@@ -7,6 +7,11 @@
 I am a PhD student in Economics in Telecom Paris/CREST. 
 I am interested in topics of Digital and Applied Economics as well as Empirical Industrial Organization.
 
+Supervisors : 
+
+Marc Bourreau (Telecom Paris/CREST)
+Lukasz Grzybowsky (University of Cape Town school of Economics)
+
 ## Contact :
 
 You can Reach me at [martin.delville@telecom-paris.fr](martin.delville@telecom-paris.fr)
