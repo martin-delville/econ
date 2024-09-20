@@ -1,6 +1,6 @@
 
 
-![]({{ site.author.avatar }}width="1500" height="1500">)
+<img src="{{ site.author.avatar }}" alt="" width="150" height="150">
 
 ## Welcome to my website !
 
