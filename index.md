@@ -22,6 +22,6 @@ Integration in the Early XIXth Century ?** - [Lien vers l'article](lien_article_
 3. **Shipping Costs vs Shelves: Who Wins?** - [Lien vers l'article](lien_article_3).
 
 <div class="images-side-by-side">
-  ![](assets/images/Logo-Crest-color (1).png)
-  ![](assets/images/telecomparis_endossem_ipp_horiz_600pix.png)
+  <img src="assets/images/Logo-Crest-color (1).png" alt="Logo 1" style="width: 45%;">
+  <img src="assets/images/telecomparis_endossem_ipp_horiz_600pix.png" alt="Logo 2" style="width: 45%;">
 </div>
