@@ -1,10 +1,9 @@
-# Martin Delville
 
-![My Photo]({{ site.author.avatar }})
 
-You can reach me at [your.email@institution.com](mailto:your.email@institution.com)
+![]({{ site.author.avatar }})
 
 ## Welcome to my website !
+
 I am a PhD student in Economics in Telecom Paris/CREST. 
 I am interested in topics of Digital and Applied Economics as well as Empirical IO.
 
